@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merge sorted halves (now in src) into dest" />
+      <item value="optimization" />
       <item value="Insertion sort on smallest arrays" />
       <item value="To be removed in a future release." />
       <item value="used in preference to mergesort." />
@@ -32,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
