@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Arrays of size 0 and 1 are always sorted" />
+      <item value="/**&#10;     * Sorts the specified portion of the specified array using a binary&#10;     * insertion sort.  This is the best method for sorting small numbers&#10;     * of elements.  It requires O(n log n) compares, but O(n^2) data&#10;     * movement (worst case).&#10;     *&#10;     * If the initial part of the specified range is already sorted,&#10;     * this method can take advantage of it: the method assumes that the&#10;     * elements from index {@code lo}, inclusive, to {@code start},&#10;     * exclusive are already sorted.&#10;     *&#10;     * @param a the array in which a range is to be sorted&#10;     * @param lo the index of the first element in the range to be sorted&#10;     * @param hi the index after the last element in the range to be sorted&#10;     * @param start the index of the first element in the range that is&#10;     *        not already known to be sorted ({@code lo &lt;= start &lt;= hi})&#10;     * @param c comparator to used for the sort&#10;     */&#10;    @SuppressWarnings(&quot;fallthrough&quot;)" />
+      <item value="If array is small, do a &quot;mini-TimSort&quot; with no merges" />
       <item value="Merge sorted halves (now in src) into dest" />
       <item value="optimization" />
       <item value="Insertion sort on smallest arrays" />
@@ -34,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
