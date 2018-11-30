@@ -1,0 +1,13 @@
+<application>
+  <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="8" />
+    <option name="FONT_FACE" value="Microsoft YaHei" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="50" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1036" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>
