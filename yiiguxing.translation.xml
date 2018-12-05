@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request Body" />
       <item value="equivalent" />
       <item value="granting" />
       <item value="&lt;p&gt;A {@code ReentrantLock} is &lt;em&gt;owned&lt;/em&gt; by the thread last&#10; * successfully locking, but not yet unlocking it. A thread invoking&#10; * {@code lock} will return, successfully acquiring the lock, when&#10; * the lock is not owned by another thread. The method will return&#10; * immediately if the current thread already owns the lock. This can&#10; * be checked using methods {@link #isHeldByCurrentThread}, and {@link&#10; * #getHoldCount}." />
@@ -42,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
