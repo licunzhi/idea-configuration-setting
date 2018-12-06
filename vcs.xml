@@ -102,6 +102,10 @@
           <option name="url" value="http://licunzhi@172.16.150.8:7990/scm/~licunzhi/microsoft-service-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.20.15.8/AIOps/aiops-dev.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\001-idea-test" />
