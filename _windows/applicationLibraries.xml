@@ -1,15 +1,15 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7 interpreter library">
+    <library name="Python 2.7 (dream_on_sakura_rain) interpreter library">
       <CLASSES>
-        <root url="file://E:/002-idea-python/Python/venv/Lib" />
-        <root url="file://E:/002-idea-python/Python/venv/Scripts" />
-        <root url="file://D:/developer/python2.7/Lib" />
-        <root url="file://D:/developer/python2.7/DLLs" />
-        <root url="file://D:/developer/python2.7/Lib/lib-tk" />
-        <root url="file://E:/002-idea-python/Python/venv" />
-        <root url="file://E:/002-idea-python/Python/venv/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1737039298" />
+        <root url="file://D:/001_idea_sakura/dream_on_sakura_rain/venv/Lib" />
+        <root url="file://D:/001_idea_sakura/dream_on_sakura_rain/venv/Scripts" />
+        <root url="file://D:/Python27/Lib" />
+        <root url="file://D:/Python27/DLLs" />
+        <root url="file://D:/Python27/Lib/lib-tk" />
+        <root url="file://D:/001_idea_sakura/dream_on_sakura_rain/venv" />
+        <root url="file://D:/001_idea_sakura/dream_on_sakura_rain/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/1957377855" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -18,14 +18,14 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://E:/002-idea-python/Python/venv/Lib" />
-        <root url="file://E:/002-idea-python/Python/venv/Scripts" />
-        <root url="file://D:/developer/python2.7/Lib" />
-        <root url="file://D:/developer/python2.7/DLLs" />
-        <root url="file://D:/developer/python2.7/Lib/lib-tk" />
-        <root url="file://E:/002-idea-python/Python/venv" />
-        <root url="file://E:/002-idea-python/Python/venv/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1737039298" />
+        <root url="file://D:/001_idea_sakura/dream_on_sakura_rain/venv/Lib" />
+        <root url="file://D:/001_idea_sakura/dream_on_sakura_rain/venv/Scripts" />
+        <root url="file://D:/Python27/Lib" />
+        <root url="file://D:/Python27/DLLs" />
+        <root url="file://D:/Python27/Lib/lib-tk" />
+        <root url="file://D:/001_idea_sakura/dream_on_sakura_rain/venv" />
+        <root url="file://D:/001_idea_sakura/dream_on_sakura_rain/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/1957377855" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
