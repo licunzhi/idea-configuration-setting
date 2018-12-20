@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="海王" />
       <item value="Duplicate" />
       <item value="See documentation in docs/topics/spiders.rst" />
       <item value="Request Body" />
@@ -45,7 +46,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
+        <entry key="CHINESE" value="39" />
         <entry key="ENGLISH" value="39" />
       </map>
     </option>
