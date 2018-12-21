@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设置分辨率" />
       <item value="词汇分析器 设置分析参数" />
       <item value="中文解析" />
       <item value="海王" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
