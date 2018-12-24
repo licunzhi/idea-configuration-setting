@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reports unstable API (elements annotated with one of annotations from list) usages." />
       <item value="设置分辨率" />
       <item value="词汇分析器 设置分析参数" />
       <item value="中文解析" />
@@ -50,7 +51,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
