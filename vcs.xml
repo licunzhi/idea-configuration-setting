@@ -122,6 +122,10 @@
           <option name="url" value="git@172.20.15.8:tapp/portal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhongsp/TypeScript.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\000-idea-work" />
