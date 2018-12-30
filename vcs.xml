@@ -118,8 +118,20 @@
           <option name="url" value="https://github.com/Pinned/ICanIBBData.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@172.20.15.8:tapp/portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhongsp/TypeScript.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hishion/angular-spa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\001-idea-test" />
+    <option name="cloneParentDir" value="E:\000-idea-work" />
   </component>
 </application>
