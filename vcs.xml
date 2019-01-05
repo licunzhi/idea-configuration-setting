@@ -130,8 +130,16 @@
           <option name="url" value="https://github.com/hishion/angular-spa.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:licunzhi/my-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/licunzhi/my-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\000-idea-work" />
+    <option name="cloneParentDir" value="E:\000-idea-test" />
   </component>
 </application>
