@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多线程" />
       <item value="单线程" />
       <item value="请求前缀" />
       <item value="单位时间发送次数测试" />
@@ -50,12 +51,11 @@
       <item value="structured" />
       <item value="bins" />
       <item value="This map usually acts as a binned (bucketed) hash table" />
-      <item value="Implementation notes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
