@@ -11,6 +11,7 @@
       <mapping pattern="测试环境任务调试" type="PLAIN_TEXT" />
       <mapping pattern="tcmpinfo" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="资源下载页面" type="PLAIN_TEXT" />
       <mapping pattern="url——info" type="PLAIN_TEXT" />
       <mapping pattern="进度以及问题总结" type="PLAIN_TEXT" />
