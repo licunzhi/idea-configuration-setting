@@ -158,4 +158,7 @@
     </option>
     <option name="cloneParentDir" value="E:\000-idea-work" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
+  </component>
 </application>
