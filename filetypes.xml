@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="notice" type="PLAIN_TEXT" />
       <mapping pattern="dream on sakura rain" type="PLAIN_TEXT" />
+      <mapping pattern="notice" type="PLAIN_TEXT" />
       <mapping pattern="url_info" type="PLAIN_TEXT" />
       <mapping pattern="single_template" type="PLAIN_TEXT" />
       <mapping pattern="nginx配置" type="PLAIN_TEXT" />
@@ -16,6 +16,7 @@
       <mapping pattern="进度以及问题总结" type="PLAIN_TEXT" />
       <mapping pattern="data_template" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="item" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
