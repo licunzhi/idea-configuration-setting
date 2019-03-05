@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="notice" type="PLAIN_TEXT" />
+      <mapping ext="caj" type="Native" />
       <mapping pattern="dream on sakura rain" type="PLAIN_TEXT" />
+      <mapping pattern="notice" type="PLAIN_TEXT" />
       <mapping pattern="url_info" type="PLAIN_TEXT" />
       <mapping pattern="single_template" type="PLAIN_TEXT" />
       <mapping pattern="nginx配置" type="PLAIN_TEXT" />
