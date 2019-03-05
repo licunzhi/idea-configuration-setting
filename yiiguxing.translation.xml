@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="客流趋势" />
       <item value="过时" />
       <item value="Dual Pivot Quick sort" />
       <item value="Dual Pivot Quicksort" />
@@ -50,12 +51,11 @@
       <item value="This map usually acts as a binned (bucketed) hash table, but&#10;     * when bins get too large, they are transformed into bins of&#10;     * TreeNodes, each structured similarly to those in&#10;     * java.util.TreeMap. Most methods try to use normal bins, but&#10;     * relay to TreeNode methods when applicable (simply by checking&#10;     * instanceof a node).  Bins of TreeNodes may be traversed and&#10;     * used like any others, but additionally support faster lookup&#10;     * when overpopulated. However, since the vast majority of bins in&#10;     * normal use are not overpopulated, checking for existence of&#10;     * tree bins may be delayed in the course of table methods." />
       <item value="overpopulated" />
       <item value="lookup" />
-      <item value="applicable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
