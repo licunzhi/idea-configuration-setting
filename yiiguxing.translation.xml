@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lingering" />
       <item value="评估月份" />
       <item value="客流趋势" />
       <item value="过时" />
@@ -50,12 +51,11 @@
       <item value="Tree bins (i.e., bins whose elements are all TreeNodes) are&#10;     * ordered primarily by hashCode, but in the case of ties, if two&#10;     * elements are of the same &quot;class C implements Comparable&lt;C&gt;&quot;,&#10;     * type then their compareTo method is used for ordering. (We&#10;     * conservatively check generic types via reflection to validate&#10;     * this -- see method comparableClassFor).  The added complexity&#10;     * of tree bins is worthwhile in providing worst-case O(log n)&#10;     * operations when keys either have distinct hashes or are&#10;     * orderable, Thus, performance degrades gracefully under&#10;     * accidental or malicious usages in which hashCode() methods&#10;     * return values that are poorly distributed, as well as those in&#10;     * which many keys share a hashCode, so long as they are also&#10;     * Comparable. (If neither of these apply, we may waste about a&#10;     * factor of two in time and space compared to taking no&#10;     * precautions. But the only known cases stem from poor user&#10;     * programming practices that are already so slow that this makes&#10;     * little difference.)" />
       <item value="This map usually acts as a binned (bucketed) hash table, but      * when bins get too large, they are transformed into bins of      * TreeNodes, each structured similarly to those in      * java.util.TreeMap. Most methods try to use normal bins, but      * relay to TreeNode methods when applicable (simply by checking      * instanceof a node).  Bins of TreeNodes may be traversed and      * used like any others, but additionally support faster lookup      * when overpopulated. However, since the vast majority of bins in      * normal use are not overpopulated, checking for existence of      * tree bins may be delayed in the course of table methods." />
       <item value="This map usually acts as a binned (bucketed) hash table, but&#10;     * when bins get too large, they are transformed into bins of&#10;     * TreeNodes, each structured similarly to those in&#10;     * java.util.TreeMap. Most methods try to use normal bins, but&#10;     * relay to TreeNode methods when applicable (simply by checking&#10;     * instanceof a node).  Bins of TreeNodes may be traversed and&#10;     * used like any others, but additionally support faster lookup&#10;     * when overpopulated. However, since the vast majority of bins in&#10;     * normal use are not overpopulated, checking for existence of&#10;     * tree bins may be delayed in the course of table methods." />
-      <item value="overpopulated" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
