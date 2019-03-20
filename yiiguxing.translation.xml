@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分析" />
+      <item value="analise" />
       <item value="twenty" />
       <item value="fifteen" />
       <item value="Trend" />
@@ -49,13 +51,12 @@
       <item value="segment" />
       <item value="creation" />
       <item value="evict" />
-      <item value="/**&#10;     * The bin count threshold for untreeifying a (split) bin during a&#10;     * resize operation. Should be less than TREEIFY_THRESHOLD, and at&#10;     * most 6 to mesh with shrinkage detection under removal.&#10;     */" />
-      <item value="The bin count threshold for using a tree rather than list for a&#10;     * bin.  Bins are converted to trees when adding an element to a&#10;     * bin with at least this many nodes. The value must be greater&#10;     * than 2 and should be at least 8 to mesh with assumptions in&#10;     * tree removal about conversion back to plain bins upon&#10;     * shrinkage." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
+        <entry key="CHINESE" value="57" />
         <entry key="ENGLISH" value="57" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
