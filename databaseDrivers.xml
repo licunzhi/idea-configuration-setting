@@ -1,8 +1,15 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
     <driver id="db2">
-      <artifact name="DB2" use="true" />
+      <artifact name="DB2" version="4.23.42" />
       <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://E:/000-idea-work/普洱外来人口/yn_people_svc/lib/db2jcc.jar</url>
+      </library>
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
@@ -39,11 +46,14 @@
     </driver>
     <driver id="mysql" name="MySQL_LOCALHOST">
       <remarks>本地数据库</remarks>
-      <artifact name="MySQL Connector/J" rolling="false" use="true" version="5.1.46" />
+      <artifact name="MySQL Connector/J" rolling="false" version="5.1.46" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://E:/000-idea-work/普洱外来人口/yn_people_svc/lib/mysql-connector-java-5.1.39.jar</url>
+      </library>
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mariadb">
