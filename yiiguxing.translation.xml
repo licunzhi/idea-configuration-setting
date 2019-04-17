@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="YYYY-MM-DD" />
+      <item value="YYYY-DD-MM" />
       <item value="分析" />
       <item value="analise" />
       <item value="twenty" />
@@ -49,13 +51,11 @@
       <item value="consistent" />
       <item value="analogue" />
       <item value="segment" />
-      <item value="creation" />
-      <item value="evict" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
