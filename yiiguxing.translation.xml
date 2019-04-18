@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="居住地区县分布" />
       <item value="residence" />
       <item value="居住地地市分布" />
       <item value="兴趣爱好" />
@@ -50,11 +51,10 @@
       <item value="Tuning parameter: list size at or below which insertion sort will be" />
       <item value="legacy Merge Sort" />
       <item value="legacy" />
-      <item value="Navigable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
         <entry key="PORTUGUESE" value="1" />
       </map>
