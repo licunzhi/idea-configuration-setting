@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="residence" />
+      <item value="居住地地市分布" />
       <item value="兴趣爱好" />
       <item value="消费能力" />
       <item value="age Distribution" />
@@ -49,13 +51,11 @@
       <item value="legacy Merge Sort" />
       <item value="legacy" />
       <item value="Navigable" />
-      <item value="Sorted Map" />
-      <item value="comparisons" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
