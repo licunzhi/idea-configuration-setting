@@ -186,6 +186,10 @@
           <option name="url" value="https://gitee.com/AkiraRex/ppmall-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/whaiming/brush-csdn-traffic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\004-idea-study" />
