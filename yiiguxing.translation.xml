@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拦截器" />
       <item value="to classify a filter by type. Standard types in Zuul are &quot;pre&quot; for pre-routing filtering,      * &quot;route&quot; for routing to an origin, &quot;post&quot; for post-routing filters, &quot;error&quot; for error handling.      * We also support a &quot;static&quot; type for static responses see  StaticResponseFilter.      * Any filterType made be created or added and run by calling FilterProcessor.runFilters(type)" />
       <item value="to classify a filter by type. Standard types in Zuul are &quot;pre&quot; for pre-routing filtering,&#10;     * &quot;route&quot; for routing to an origin, &quot;post&quot; for post-routing filters, &quot;error&quot; for error handling.&#10;     * We also support a &quot;static&quot; type for static responses see  StaticResponseFilter.&#10;     * Any filterType made be created or added and run by calling FilterProcessor.runFilters(type)" />
       <item value="Object to represent a SQL parameter value, including parameter metadata such as the SQL type and the scale for numeric values. Designed for use with JdbcTemplate's operations that take an array of argument values: Each such argument value may be a SqlParameterValue, indicating the SQL type (and optionally the scale) instead of letting the template guess a default type. Note that this only applies to the operations with a 'plain' argument array, not to the overloaded variants with an explicit type array." />
@@ -50,7 +51,6 @@
       <item value="Request Body" />
       <item value="equivalent" />
       <item value="granting" />
-      <item value="&lt;p&gt;A {@code ReentrantLock} is &lt;em&gt;owned&lt;/em&gt; by the thread last&#10; * successfully locking, but not yet unlocking it. A thread invoking&#10; * {@code lock} will return, successfully acquiring the lock, when&#10; * the lock is not owned by another thread. The method will return&#10; * immediately if the current thread already owns the lock. This can&#10; * be checked using methods {@link #isHeldByCurrentThread}, and {@link&#10; * #getHoldCount}." />
     </histories>
     <option name="languageScores">
       <map>
