@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hot spot click" />
+      <item value="hotspotclick" />
       <item value="t.insight task status" />
       <item value="Variable map implicitly declared" />
       <item value="load Heat Map" />
@@ -49,13 +51,11 @@
       <item value="词汇分析器 设置分析参数" />
       <item value="中文解析" />
       <item value="海王" />
-      <item value="Duplicate" />
-      <item value="See documentation in docs/topics/spiders.rst" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
