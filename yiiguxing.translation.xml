@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="市县分析" />
       <item value="TUR FAC REG CUSTCNT DAY" />
       <item value="traverse Shape" />
       <item value="number" />
@@ -50,11 +51,10 @@
       <item value="请求前缀" />
       <item value="单位时间发送次数测试" />
       <item value="单位时间" />
-      <item value="Reports unstable API (elements annotated with one of annotations from list) usages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
+        <entry key="CHINESE" value="80" />
         <entry key="ENGLISH" value="80" />
         <entry key="PORTUGUESE" value="1" />
       </map>
