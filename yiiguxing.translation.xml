@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Distribution" />
+      <item value="分布" />
       <item value="time TYPE" />
       <item value="市县分析" />
       <item value="TUR FAC REG CUSTCNT DAY" />
@@ -49,13 +51,11 @@
       <item value="基本数据类型采用的是快速排序法Dual Pivot Quicksort" />
       <item value="多线程" />
       <item value="单线程" />
-      <item value="请求前缀" />
-      <item value="单位时间发送次数测试" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
