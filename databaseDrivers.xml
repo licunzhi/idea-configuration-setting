@@ -44,7 +44,7 @@
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql" name="MySQL_LOCALHOST">
+    <driver id="mysql">
       <remarks>本地数据库</remarks>
       <artifact name="MySQL Connector/J" rolling="false" version="5.1.46" />
       <option name="auto-sync" value="true" />
