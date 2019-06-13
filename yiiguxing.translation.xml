@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="省内客流" />
       <item value="reporttype" />
       <item value="Distribution" />
       <item value="分布" />
@@ -50,11 +51,10 @@
       <item value="Dual Pivot Quick sort" />
       <item value="Dual Pivot Quicksort" />
       <item value="基本数据类型采用的是快速排序法Dual Pivot Quicksort" />
-      <item value="多线程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
+        <entry key="CHINESE" value="84" />
         <entry key="ENGLISH" value="84" />
         <entry key="PORTUGUESE" value="1" />
       </map>
