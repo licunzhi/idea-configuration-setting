@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="出行" />
       <item value="范围" />
       <item value="省内客流" />
       <item value="reporttype" />
@@ -50,12 +51,11 @@
       <item value="客流趋势" />
       <item value="过时" />
       <item value="Dual Pivot Quick sort" />
-      <item value="Dual Pivot Quicksort" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="87" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
