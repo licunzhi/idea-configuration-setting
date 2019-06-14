@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select stat_date,src_type,src_code,cust_cnt from TUR_F_REG_CUSTSRC_DAY TFRCD WHERE     TFRCD.REG_ID=:REGID AND TFRCD.SRC_TYPE=0 AND TFRCD.SRC_CODE='0'    AND TFRCD.STAT_DATE&gt;=:startTime AND TFRCD.STAT_DATE&lt;=:endTime" />
       <item value="select stat_date,src_type,src_code,cust_cnt from TUR_F_REG_CUSTSRC_DAY TFRCD WHERE&#10;    TFRCD.REG_ID=:REGID AND TFRCD.SRC_TYPE=0 AND TFRCD.SRC_CODE='0'&#10;   AND TFRCD.STAT_DATE&gt;=:startTime AND TFRCD.STAT_DATE&lt;=:endTime" />
       <item value="出行" />
       <item value="范围" />
@@ -50,11 +51,10 @@
       <item value="Lingering" />
       <item value="评估月份" />
       <item value="客流趋势" />
-      <item value="过时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
+        <entry key="CHINESE" value="88" />
         <entry key="ENGLISH" value="88" />
         <entry key="PORTUGUESE" value="1" />
       </map>
