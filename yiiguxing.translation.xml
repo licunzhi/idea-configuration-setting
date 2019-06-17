@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="device Pixel Ratio" />
       <item value="季度" />
       <item value="Mesh Lambert Material" />
       <item value="anisotropy" />
@@ -50,12 +51,11 @@
       <item value="分析" />
       <item value="analise" />
       <item value="twenty" />
-      <item value="fifteen" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
