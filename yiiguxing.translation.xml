@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Loader for Basis Universal GPU Texture Codec.&#10; *&#10; * Basis Universal is a &quot;supercompressed&quot; GPU texture and texture video&#10; * compression system that outputs a highly compressed intermediate file format&#10; * (.basis) that can be quickly transcoded to a wide variety of GPU texture&#10; * compression formats.&#10; *&#10; * This loader parallelizes the transcoding process across a configurable number&#10; * of web workers, before transferring the transcoded compressed texture back&#10; * to the main thread." />
       <item value="device Pixel Ratio" />
       <item value="季度" />
       <item value="Mesh Lambert Material" />
@@ -50,12 +51,11 @@
       <item value="YYYY-DD-MM" />
       <item value="分析" />
       <item value="analise" />
-      <item value="twenty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
