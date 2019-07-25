@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
   <action id="SplitHorizontally">
     <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
