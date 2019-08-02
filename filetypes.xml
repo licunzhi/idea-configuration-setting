@@ -19,6 +19,7 @@
       <mapping pattern="进度以及问题总结" type="PLAIN_TEXT" />
       <mapping pattern="介绍" type="PLAIN_TEXT" />
       <mapping pattern="data_template" type="PLAIN_TEXT" />
+      <mapping pattern="TCP粘包.md" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
