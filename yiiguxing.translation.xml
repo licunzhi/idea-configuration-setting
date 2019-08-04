@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tenant id" />
       <item value="subaccountlist" />
       <item value="abbreviation" />
       <item value="子账号管理" />
@@ -50,7 +51,6 @@
       <item value="{@link RowMapper} implementation that creates a {@code java.util.Map}&#10; * for each row, representing all columns as key-value pairs: one&#10; * entry for each column, with the column name as key.&#10; *&#10; * &lt;p&gt;The Map implementation to use and the key to use for each column&#10; * in the column Map can be customized through overriding&#10; * {@link #createColumnMap} and {@link #getColumnKey}, respectively.&#10; *&#10; * &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; By default, ColumnMapRowMapper will try to build a linked Map&#10; * with case-insensitive keys, to preserve column order as well as allow any&#10; * casing to be used for column names. This requires Commons Collections on the&#10; * classpath (which will be autodetected). Else, the fallback is a standard linked&#10; * HashMap, which will still preserve column order but requires the application&#10; * to specify the column names in the same casing as exposed by the driver." />
       <item value="to specify the column names in the same casing as exposed by the driver." />
       <item value="substitute Named Parameters" />
-      <item value="XML Slide Show" />
     </histories>
     <option name="languageScores">
       <map>
