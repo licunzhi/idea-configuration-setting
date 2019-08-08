@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delete Sub Account门户请求登录结果失败" />
+      <item value="添加用户" />
+      <item value="免单" />
       <item value="tenant id" />
       <item value="subaccountlist" />
       <item value="abbreviation" />
@@ -48,14 +51,11 @@
       <item value="/** &#9; * Parse the SQL statement and locate any placeholders or named parameters. Named &#9; * parameters are substituted for a JDBC placeholder, and any select list is expanded &#9; * to the required number of placeholders. Select lists may contain an array of &#9; * objects, and in that case the placeholders will be grouped and enclosed with &#9; * parentheses. This allows for the use of &quot;expression lists&quot; in the SQL statement &#9; * like: &lt;br /&gt;&lt;br /&gt; &#9; * {@code select id, name, state from table where (name, age) in (('John', 35), ('Ann', 50))} &#9; * &lt;p&gt;The parameter values passed in are used to determine the number of placeholders to &#9; * be used for a select list. Select lists should be limited to 100 or fewer elements. &#9; * A larger number of elements is not guaranteed to be supported by the database and &#9; * is strictly vendor-dependent. &#9; * @param parsedSql the parsed representation of the SQL statement &#9; * @param paramSource the source for named parameters &#9; * @return the SQL statement with substituted parameters &#9; * @see #parseSqlStatement" />
       <item value="/**&#10;&#9; * Parse the SQL statement and locate any placeholders or named parameters. Named&#10;&#9; * parameters are substituted for a JDBC placeholder, and any select list is expanded&#10;&#9; * to the required number of placeholders. Select lists may contain an array of&#10;&#9; * objects, and in that case the placeholders will be grouped and enclosed with&#10;&#9; * parentheses. This allows for the use of &quot;expression lists&quot; in the SQL statement&#10;&#9; * like: &lt;br /&gt;&lt;br /&gt;&#10;&#9; * {@code select id, name, state from table where (name, age) in (('John', 35), ('Ann', 50))}&#10;&#9; * &lt;p&gt;The parameter values passed in are used to determine the number of placeholders to&#10;&#9; * be used for a select list. Select lists should be limited to 100 or fewer elements.&#10;&#9; * A larger number of elements is not guaranteed to be supported by the database and&#10;&#9; * is strictly vendor-dependent.&#10;&#9; * @param parsedSql the parsed representation of the SQL statement&#10;&#9; * @param paramSource the source for named parameters&#10;&#9; * @return the SQL statement with substituted parameters&#10;&#9; * @see #parseSqlStatement" />
       <item value="{@link RowMapper} implementation that creates a {@code java.util.Map}  * for each row, representing all columns as key-value pairs: one  * entry for each column, with the column name as key.  *  * &lt;p&gt;The Map implementation to use and the key to use for each column  * in the column Map can be customized through overriding  * {@link #createColumnMap} and {@link #getColumnKey}, respectively.  *  * &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; By default, ColumnMapRowMapper will try to build a linked Map  * with case-insensitive keys, to preserve column order as well as allow any  * casing to be used for column names. This requires Commons Collections on the  * classpath (which will be autodetected). Else, the fallback is a standard linked  * HashMap, which will still preserve column order but requires the application  * to specify the column names in the same casing as exposed by the driver." />
-      <item value="{@link RowMapper} implementation that creates a {@code java.util.Map}&#10; * for each row, representing all columns as key-value pairs: one&#10; * entry for each column, with the column name as key.&#10; *&#10; * &lt;p&gt;The Map implementation to use and the key to use for each column&#10; * in the column Map can be customized through overriding&#10; * {@link #createColumnMap} and {@link #getColumnKey}, respectively.&#10; *&#10; * &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; By default, ColumnMapRowMapper will try to build a linked Map&#10; * with case-insensitive keys, to preserve column order as well as allow any&#10; * casing to be used for column names. This requires Commons Collections on the&#10; * classpath (which will be autodetected). Else, the fallback is a standard linked&#10; * HashMap, which will still preserve column order but requires the application&#10; * to specify the column names in the same casing as exposed by the driver." />
-      <item value="to specify the column names in the same casing as exposed by the driver." />
-      <item value="substitute Named Parameters" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
