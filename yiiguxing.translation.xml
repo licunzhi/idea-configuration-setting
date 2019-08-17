@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the JWT payload to be a JSON Claims instance populated by the specified name/value pairs.  If you do not&#10;     * want the JWT body to be JSON and instead want it to be a plaintext string, use the {@link #setPayload(String)}&#10;     * method instead." />
+      <item value="method instead." />
       <item value="Bearer" />
       <item value="权限" />
       <item value="审核评估" />
@@ -49,13 +51,11 @@
       <item value="Variable map implicitly declared" />
       <item value="load Heat Map" />
       <item value="拦截器" />
-      <item value="to classify a filter by type. Standard types in Zuul are &quot;pre&quot; for pre-routing filtering,      * &quot;route&quot; for routing to an origin, &quot;post&quot; for post-routing filters, &quot;error&quot; for error handling.      * We also support a &quot;static&quot; type for static responses see  StaticResponseFilter.      * Any filterType made be created or added and run by calling FilterProcessor.runFilters(type)" />
-      <item value="to classify a filter by type. Standard types in Zuul are &quot;pre&quot; for pre-routing filtering,&#10;     * &quot;route&quot; for routing to an origin, &quot;post&quot; for post-routing filters, &quot;error&quot; for error handling.&#10;     * We also support a &quot;static&quot; type for static responses see  StaticResponseFilter.&#10;     * Any filterType made be created or added and run by calling FilterProcessor.runFilters(type)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
