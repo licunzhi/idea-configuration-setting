@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="where" />
       <item value="试用" />
       <item value="Sets the JWT payload to be a JSON Claims instance populated by the specified name/value pairs.  If you do not&#10;     * want the JWT body to be JSON and instead want it to be a plaintext string, use the {@link #setPayload(String)}&#10;     * method instead." />
       <item value="method instead." />
@@ -50,7 +51,6 @@
       <item value="hotspotclick" />
       <item value="t.insight task status" />
       <item value="Variable map implicitly declared" />
-      <item value="load Heat Map" />
     </histories>
     <option name="languageScores">
       <map>
