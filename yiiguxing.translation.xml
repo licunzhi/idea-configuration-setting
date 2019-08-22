@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="出行" />
+      <item value="行" />
       <item value="出行方式" />
       <item value="where" />
       <item value="试用" />
@@ -36,7 +38,6 @@
       <item value="fog" />
       <item value="select stat_date,src_type,src_code,cust_cnt from TUR_F_REG_CUSTSRC_DAY TFRCD WHERE     TFRCD.REG_ID=:REGID AND TFRCD.SRC_TYPE=0 AND TFRCD.SRC_CODE='0'    AND TFRCD.STAT_DATE&gt;=:startTime AND TFRCD.STAT_DATE&lt;=:endTime" />
       <item value="select stat_date,src_type,src_code,cust_cnt from TUR_F_REG_CUSTSRC_DAY TFRCD WHERE&#10;    TFRCD.REG_ID=:REGID AND TFRCD.SRC_TYPE=0 AND TFRCD.SRC_CODE='0'&#10;   AND TFRCD.STAT_DATE&gt;=:startTime AND TFRCD.STAT_DATE&lt;=:endTime" />
-      <item value="出行" />
       <item value="范围" />
       <item value="省内客流" />
       <item value="reporttype" />
@@ -50,12 +51,11 @@
       <item value="wm concat" />
       <item value="hot spot click" />
       <item value="hotspotclick" />
-      <item value="t.insight task status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="110" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
