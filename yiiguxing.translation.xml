@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This method is the equivalent to calling &lt;pre&gt;Encoder.canonicalize(input, strict, strict);" />
       <item value="出行" />
       <item value="行" />
       <item value="出行方式" />
@@ -50,12 +51,11 @@
       <item value="number" />
       <item value="wm concat" />
       <item value="hot spot click" />
-      <item value="hotspotclick" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
