@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tag TO ESCAPE" />
+      <item value="转义" />
       <item value="This method is the equivalent to calling &lt;pre&gt;Encoder.canonicalize(input, strict, strict);" />
       <item value="出行" />
       <item value="行" />
@@ -49,13 +51,11 @@
       <item value="TUR FAC REG CUSTCNT DAY" />
       <item value="traverse Shape" />
       <item value="number" />
-      <item value="wm concat" />
-      <item value="hot spot click" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
