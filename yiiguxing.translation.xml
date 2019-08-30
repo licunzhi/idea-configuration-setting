@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Number of milliseconds to delay before the first execution of a&#10;&#9; * {@link #fixedRate()} or {@link #fixedDelay()} task.&#10;&#9; * @return the initial delay in milliseconds&#10;&#9; * @since 3.2" />
+      <item value="* Execute the annotated method with a fixed period in milliseconds between&#10;&#9; * invocations.&#10;&#9; * @return the period in milliseconds" />
+      <item value="Execute the annotated method with a fixed period in milliseconds between the&#10;&#9; * end of the last invocation and the start of the next.&#10;&#9; * @return the delay in milliseconds" />
       <item value="过滤外部基站" />
       <item value="画笔" />
       <item value="假中心点" />
@@ -48,14 +51,11 @@
       <item value="gamma Output" />
       <item value="antialias" />
       <item value="_antialias" />
-      <item value="Loader for Basis Universal GPU Texture Codec.&#10; *&#10; * Basis Universal is a &quot;supercompressed&quot; GPU texture and texture video&#10; * compression system that outputs a highly compressed intermediate file format&#10; * (.basis) that can be quickly transcoded to a wide variety of GPU texture&#10; * compression formats.&#10; *&#10; * This loader parallelizes the transcoding process across a configurable number&#10; * of web workers, before transferring the transcoded compressed texture back&#10; * to the main thread." />
-      <item value="device Pixel Ratio" />
-      <item value="季度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
