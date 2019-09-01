@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="轨迹" />
       <item value="Number of milliseconds to delay before the first execution of a&#10;&#9; * {@link #fixedRate()} or {@link #fixedDelay()} task.&#10;&#9; * @return the initial delay in milliseconds&#10;&#9; * @since 3.2" />
       <item value="* Execute the annotated method with a fixed period in milliseconds between&#10;&#9; * invocations.&#10;&#9; * @return the period in milliseconds" />
       <item value="Execute the annotated method with a fixed period in milliseconds between the&#10;&#9; * end of the last invocation and the start of the next.&#10;&#9; * @return the delay in milliseconds" />
@@ -50,11 +51,10 @@
       <item value="order by stat_time asc" />
       <item value="gamma Output" />
       <item value="antialias" />
-      <item value="_antialias" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
+        <entry key="CHINESE" value="130" />
         <entry key="ENGLISH" value="130" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
