@@ -1,7 +1,6 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="serviceDirectoryPath" value="E:/develop/gradle" />
-    <option name="gradleVmOptions" value="D:/develop/java" />
+    <option name="serviceDirectoryPath" value="E:/007-gradle-rep" />
     <option name="offlineWork" value="true" />
   </component>
 </application>
