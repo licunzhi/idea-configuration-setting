@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simple stop watch, allowing for timing of a number of tasks, exposing total running time and running time for each named task. Conceals use of System.currentTimeMillis(), improving the readability of application code and reducing the likelihood of calculation errors. Note that this object is not designed to be thread-safe and does not use synchronization." />
+      <item value="Simple stop watch, allowing for timing of a number of tasks, exposing total running time and running time for each named task.&#10;Conceals use of System.currentTimeMillis(), improving the readability of application code and reducing the likelihood of calculation errors.&#10;Note that this object is not designed to be thread-safe and does not use synchronization." />
+      <item value="deduce Main Application Class" />
       <item value="Determine whether the given {@code Class} is a Kotlin type" />
       <item value="Determine whether Kotlin reflection is present." />
       <item value="Determine whether Kotlin is present in general." />
@@ -48,14 +51,11 @@
       <item value="行" />
       <item value="出行方式" />
       <item value="where" />
-      <item value="试用" />
-      <item value="Sets the JWT payload to be a JSON Claims instance populated by the specified name/value pairs.  If you do not&#10;     * want the JWT body to be JSON and instead want it to be a plaintext string, use the {@link #setPayload(String)}&#10;     * method instead." />
-      <item value="method instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="141" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
