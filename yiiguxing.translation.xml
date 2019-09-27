@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Determine whether the given {@code Class} is a Kotlin type" />
+      <item value="Determine whether Kotlin reflection is present." />
+      <item value="Determine whether Kotlin is present in general." />
+      <item value="A common delegate for detecting Kotlin's presence and for identifying Kotlin types." />
+      <item value="delegate" />
+      <item value="instantiate Class" />
       <item value="An enumeration of possible types of web application." />
       <item value="Configures component scanning directives for use with @{@link Configuration} classes.&#10; * Provides support parallel with Spring XML's {@code &lt;context:component-scan&gt;} element.&#10; *&#10; * &lt;p&gt;Either {@link #basePackageClasses} or {@link #basePackages} (or its alias&#10; * {@link #value}) may be specified to define specific packages to scan. If specific&#10; * packages are not defined, scanning will occur from the package of the&#10; * class that declares this annotation.&#10; *&#10; * &lt;p&gt;Note that the {@code &lt;context:component-scan&gt;} element has an&#10; * {@code annotation-config} attribute; however, this annotation does not. This is because&#10; * in almost all cases when using {@code @ComponentScan}, default annotation config&#10; * processing (e.g. processing {@code @Autowired} and friends) is assumed. Furthermore,&#10; * when using {@link AnnotationConfigApplicationContext}, annotation config processors are&#10; * always registered, meaning that any attempt to disable them at the&#10; * {@code @ComponentScan} level would be ignored." />
       <item value="Container annotation that aggregates several ComponentScan annotations. Can be used natively, declaring several nested ComponentScan annotations. Can also be used in conjunction with Java 8's support for repeatable annotations, where ComponentScan can simply be declared several times on the same method, implicitly generating this container annotation." />
@@ -45,17 +51,11 @@
       <item value="试用" />
       <item value="Sets the JWT payload to be a JSON Claims instance populated by the specified name/value pairs.  If you do not&#10;     * want the JWT body to be JSON and instead want it to be a plaintext string, use the {@link #setPayload(String)}&#10;     * method instead." />
       <item value="method instead." />
-      <item value="Bearer" />
-      <item value="权限" />
-      <item value="审核评估" />
-      <item value="套餐名字" />
-      <item value="话单" />
-      <item value="免单计数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
