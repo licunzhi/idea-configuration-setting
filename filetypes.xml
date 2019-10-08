@@ -5,7 +5,7 @@
       <mapping ext="caj" type="Native" />
       <mapping pattern="dream on sakura rain" type="PLAIN_TEXT" />
       <mapping pattern="notice" type="PLAIN_TEXT" />
-      <mapping pattern="data_template" type="PLAIN_TEXT" />
+      <mapping pattern="临时文件" type="PLAIN_TEXT" />
       <mapping pattern="项目警示" type="PLAIN_TEXT" />
       <mapping pattern="url_info" type="PLAIN_TEXT" />
       <mapping pattern="DATADIFF" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <mapping pattern="url——info" type="PLAIN_TEXT" />
       <mapping pattern="进度以及问题总结" type="PLAIN_TEXT" />
       <mapping pattern="介绍" type="PLAIN_TEXT" />
+      <mapping pattern="data_template" type="PLAIN_TEXT" />
       <mapping pattern="TCP粘包.md" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
