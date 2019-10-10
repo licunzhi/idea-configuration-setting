@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人口类型" />
       <item value="Simple stop watch, allowing for timing of a number of tasks, exposing total running time and running time for each named task. Conceals use of System.currentTimeMillis(), improving the readability of application code and reducing the likelihood of calculation errors. Note that this object is not designed to be thread-safe and does not use synchronization." />
       <item value="Simple stop watch, allowing for timing of a number of tasks, exposing total running time and running time for each named task.&#10;Conceals use of System.currentTimeMillis(), improving the readability of application code and reducing the likelihood of calculation errors.&#10;Note that this object is not designed to be thread-safe and does not use synchronization." />
       <item value="deduce Main Application Class" />
@@ -50,12 +51,11 @@
       <item value="出行" />
       <item value="行" />
       <item value="出行方式" />
-      <item value="where" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="142" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
