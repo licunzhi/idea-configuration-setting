@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MAX CAHE COUNT" />
+      <item value="max cahe count" />
       <item value="审核" />
       <item value="EVENT ID" />
       <item value="驻留时长" />
@@ -49,13 +51,11 @@
       <item value="Executes the given SQL statement, which may be an &lt;code&gt;INSERT&lt;/code&gt;,&#10;     * &lt;code&gt;UPDATE&lt;/code&gt;, or &lt;code&gt;DELETE&lt;/code&gt; statement or an&#10;     * SQL statement that returns nothing, such as an SQL DDL statement.&#10;     *&lt;p&gt;&#10;     * &lt;strong&gt;Note:&lt;/strong&gt;This method cannot be called on a&#10;     * &lt;code&gt;PreparedStatement&lt;/code&gt; or &lt;code&gt;CallableStatement&lt;/code&gt;.&#10;     * @param sql an SQL Data Manipulation Language (DML) statement, such as &lt;code&gt;INSERT&lt;/code&gt;, &lt;code&gt;UPDATE&lt;/code&gt; or&#10;     * &lt;code&gt;DELETE&lt;/code&gt;; or an SQL statement that returns nothing,&#10;     * such as a DDL statement.&#10;     *&#10;     * @return either (1) the row count for SQL Data Manipulation Language (DML) statements&#10;     *         or (2) 0 for SQL statements that return nothing&#10;     *&#10;     * @exception SQLException if a database access error occurs,&#10;     * this method is called on a closed &lt;code&gt;Statement&lt;/code&gt;, the given&#10;     * SQL statement produces a &lt;code&gt;ResultSet&lt;/code&gt; object, the method is called on a&#10;     * &lt;code&gt;PreparedStatement&lt;/code&gt; or &lt;code&gt;CallableStatement&lt;/code&gt;&#10;     * @throws SQLTimeoutException when the driver has determined that the&#10;     * timeout value that was specified by the {@code setQueryTimeout}&#10;     * method has been exceeded and has at least attempted to cancel&#10;     * the currently running {@code Statement}" />
       <item value="多边形" />
       <item value="tag TO ESCAPE" />
-      <item value="转义" />
-      <item value="This method is the equivalent to calling &lt;pre&gt;Encoder.canonicalize(input, strict, strict);" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
