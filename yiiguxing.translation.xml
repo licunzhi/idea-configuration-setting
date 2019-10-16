@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rubberband" />
       <item value="infinite" />
       <item value="Bounce" />
       <item value="bounce" />
@@ -50,12 +51,11 @@
       <item value="DML" />
       <item value="Manipulation" />
       <item value="/**&#10;     * Executes the given SQL statement, which returns a single&#10;     * &lt;code&gt;ResultSet&lt;/code&gt; object.&#10;     *&lt;p&gt;&#10;     * &lt;strong&gt;Note:&lt;/strong&gt;This method cannot be called on a&#10;     * &lt;code&gt;PreparedStatement&lt;/code&gt; or &lt;code&gt;CallableStatement&lt;/code&gt;.&#10;     * @param sql an SQL statement to be sent to the database, typically a&#10;     *        static SQL &lt;code&gt;SELECT&lt;/code&gt; statement&#10;     * @return a &lt;code&gt;ResultSet&lt;/code&gt; object that contains the data produced&#10;     *         by the given query; never &lt;code&gt;null&lt;/code&gt;&#10;     * @exception SQLException if a database access error occurs,&#10;     * this method is called on a closed &lt;code&gt;Statement&lt;/code&gt;, the given&#10;     *            SQL statement produces anything other than a single&#10;     *            &lt;code&gt;ResultSet&lt;/code&gt; object, the method is called on a&#10;     * &lt;code&gt;PreparedStatement&lt;/code&gt; or &lt;code&gt;CallableStatement&lt;/code&gt;&#10;     * @throws SQLTimeoutException when the driver has determined that the&#10;     * timeout value that was specified by the {@code setQueryTimeout}&#10;     * method has been exceeded and has at least attempted to cancel&#10;     * the currently running {@code Statement}&#10;     */" />
-      <item value="/**&#10;     * Executes the given SQL statement, which may return multiple results.&#10;     * In some (uncommon) situations, a single SQL statement may return&#10;     * multiple result sets and/or update counts.  Normally you can ignore&#10;     * this unless you are (1) executing a stored procedure that you know may&#10;     * return multiple results or (2) you are dynamically executing an&#10;     * unknown SQL string.&#10;     * &lt;P&gt;&#10;     * The &lt;code&gt;execute&lt;/code&gt; method executes an SQL statement and indicates the&#10;     * form of the first result.  You must then use the methods&#10;     * &lt;code&gt;getResultSet&lt;/code&gt; or &lt;code&gt;getUpdateCount&lt;/code&gt;&#10;     * to retrieve the result, and &lt;code&gt;getMoreResults&lt;/code&gt; to&#10;     * move to any subsequent result(s).&#10;     * &lt;p&gt;&#10;     *&lt;strong&gt;Note:&lt;/strong&gt;This method cannot be called on a&#10;     * &lt;code&gt;PreparedStatement&lt;/code&gt; or &lt;code&gt;CallableStatement&lt;/code&gt;.&#10;     * @param sql any SQL statement&#10;     * @return &lt;code&gt;true&lt;/code&gt; if the first result is a &lt;code&gt;ResultSet&lt;/code&gt;&#10;     *         object; &lt;code&gt;false&lt;/code&gt; if it is an update count or there are&#10;     *         no results&#10;     * @exception SQLException if a database access error occurs,&#10;     * this method is called on a closed &lt;code&gt;Statement&lt;/code&gt;,&#10;     * the method is called on a&#10;     * &lt;code&gt;PreparedStatement&lt;/code&gt; or &lt;code&gt;CallableStatement&lt;/code&gt;&#10;     * @throws SQLTimeoutException when the driver has determined that the&#10;     * timeout value that was specified by the {@code setQueryTimeout}&#10;     * method has been exceeded and has at least attempted to cancel&#10;     * the currently running {@code Statement}&#10;     * @see #getResultSet&#10;     * @see #getUpdateCount&#10;     * @see #getMoreResults" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
