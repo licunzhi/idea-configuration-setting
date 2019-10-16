@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tada" />
       <item value="rubberband" />
       <item value="infinite" />
       <item value="Bounce" />
@@ -50,12 +51,12 @@
       <item value="either (1) the row count for SQL Data Manipulation Language (DML) statements" />
       <item value="DML" />
       <item value="Manipulation" />
-      <item value="/**&#10;     * Executes the given SQL statement, which returns a single&#10;     * &lt;code&gt;ResultSet&lt;/code&gt; object.&#10;     *&lt;p&gt;&#10;     * &lt;strong&gt;Note:&lt;/strong&gt;This method cannot be called on a&#10;     * &lt;code&gt;PreparedStatement&lt;/code&gt; or &lt;code&gt;CallableStatement&lt;/code&gt;.&#10;     * @param sql an SQL statement to be sent to the database, typically a&#10;     *        static SQL &lt;code&gt;SELECT&lt;/code&gt; statement&#10;     * @return a &lt;code&gt;ResultSet&lt;/code&gt; object that contains the data produced&#10;     *         by the given query; never &lt;code&gt;null&lt;/code&gt;&#10;     * @exception SQLException if a database access error occurs,&#10;     * this method is called on a closed &lt;code&gt;Statement&lt;/code&gt;, the given&#10;     *            SQL statement produces anything other than a single&#10;     *            &lt;code&gt;ResultSet&lt;/code&gt; object, the method is called on a&#10;     * &lt;code&gt;PreparedStatement&lt;/code&gt; or &lt;code&gt;CallableStatement&lt;/code&gt;&#10;     * @throws SQLTimeoutException when the driver has determined that the&#10;     * timeout value that was specified by the {@code setQueryTimeout}&#10;     * method has been exceeded and has at least attempted to cancel&#10;     * the currently running {@code Statement}&#10;     */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
+        <entry key="CHINESE" value="151" />
         <entry key="ENGLISH" value="151" />
+        <entry key="LITHUANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
