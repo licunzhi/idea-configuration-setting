@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="掌上图书" />
+      <item value="图书馆" />
       <item value="场馆" />
       <item value="收藏" />
       <item value="tada" />
@@ -49,8 +51,6 @@
       <item value="开始绘制" />
       <item value="color-interpolation" />
       <item value="number" />
-      <item value="or (2) 0 for SQL statements that return nothing" />
-      <item value="either (1) the row count for SQL Data Manipulation Language (DML) statements" />
     </histories>
     <option name="languageScores">
       <map>
