@@ -3,18 +3,19 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_module;node_modules;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="caj" type="Native" />
+      <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping pattern="dream on sakura rain" type="PLAIN_TEXT" />
       <mapping pattern="notice" type="PLAIN_TEXT" />
-      <mapping pattern="url_info" type="PLAIN_TEXT" />
+      <mapping pattern="WAVE.MD" type="PLAIN_TEXT" />
       <mapping pattern="项目警示" type="PLAIN_TEXT" />
-      <mapping pattern="临时文件" type="PLAIN_TEXT" />
+      <mapping pattern="url_info" type="PLAIN_TEXT" />
       <mapping pattern="DATADIFF" type="PLAIN_TEXT" />
       <mapping pattern="single_template" type="PLAIN_TEXT" />
       <mapping pattern="nginx配置" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="测试环境任务调试" type="PLAIN_TEXT" />
       <mapping pattern="tcmpinfo" type="PLAIN_TEXT" />
-      <mapping pattern="banner" type="PLAIN_TEXT" />
+      <mapping pattern="临时文件" type="PLAIN_TEXT" />
       <mapping pattern="一个呆萌引发的思考（三）" type="PLAIN_TEXT" />
       <mapping pattern="DATADIFFONE" type="PLAIN_TEXT" />
       <mapping pattern="资源下载页面" type="PLAIN_TEXT" />
