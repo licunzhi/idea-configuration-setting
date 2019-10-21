@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="x" />
       <item value="故障" />
       <item value="水波" />
       <item value="立方体" />
@@ -50,7 +51,6 @@
       <item value="Execute the annotated method with a fixed period in milliseconds between the&#10;&#9; * end of the last invocation and the start of the next.&#10;&#9; * @return the delay in milliseconds" />
       <item value="过滤外部基站" />
       <item value="画笔" />
-      <item value="假中心点" />
     </histories>
     <option name="languageScores">
       <map>
