@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="消费" />
+      <item value="消费指数" />
+      <item value="行业分布" />
       <item value="分类" />
       <item value="大分类" />
       <item value="工作行业模糊分类" />
@@ -48,14 +51,11 @@
       <item value="A common delegate for detecting Kotlin's presence and for identifying Kotlin types." />
       <item value="delegate" />
       <item value="instantiate Class" />
-      <item value="An enumeration of possible types of web application." />
-      <item value="Configures component scanning directives for use with @{@link Configuration} classes.&#10; * Provides support parallel with Spring XML's {@code &lt;context:component-scan&gt;} element.&#10; *&#10; * &lt;p&gt;Either {@link #basePackageClasses} or {@link #basePackages} (or its alias&#10; * {@link #value}) may be specified to define specific packages to scan. If specific&#10; * packages are not defined, scanning will occur from the package of the&#10; * class that declares this annotation.&#10; *&#10; * &lt;p&gt;Note that the {@code &lt;context:component-scan&gt;} element has an&#10; * {@code annotation-config} attribute; however, this annotation does not. This is because&#10; * in almost all cases when using {@code @ComponentScan}, default annotation config&#10; * processing (e.g. processing {@code @Autowired} and friends) is assumed. Furthermore,&#10; * when using {@link AnnotationConfigApplicationContext}, annotation config processors are&#10; * always registered, meaning that any attempt to disable them at the&#10; * {@code @ComponentScan} level would be ignored." />
-      <item value="Container annotation that aggregates several ComponentScan annotations. Can be used natively, declaring several nested ComponentScan annotations. Can also be used in conjunction with Java 8's support for repeatable annotations, where ComponentScan can simply be declared several times on the same method, implicitly generating this container annotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="167" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
