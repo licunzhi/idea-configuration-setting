@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="京外通勤" />
       <item value="street Id" />
       <item value="通勤" />
       <item value="同区域通勤" />
@@ -50,11 +51,10 @@
       <item value="小祖宗" />
       <item value="MAX CAHE COUNT" />
       <item value="max cahe count" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
+        <entry key="CHINESE" value="178" />
         <entry key="ENGLISH" value="178" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
