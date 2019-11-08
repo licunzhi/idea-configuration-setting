@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="二十" />
+      <item value="nineteen" />
       <item value="人口趋势" />
       <item value="十二" />
       <item value="twelf" />
@@ -49,13 +51,11 @@
       <item value="收藏" />
       <item value="tada" />
       <item value="rubberband" />
-      <item value="infinite" />
-      <item value="Bounce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="186" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
