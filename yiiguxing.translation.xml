@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stat Time" />
       <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing&#10; * subclasses to override only the methods they're interested in.&#10; *&#10; * @author Rossen Stoyanchev&#10; * @since 3.1&#10; * @deprecated as of 5.0 {@link WebMvcConfigurer} has default methods (made&#10; * possible by a Java 8 baseline) and can be implemented directly without the&#10; * need for this adapter" />
       <item value="拦截器" />
       <item value="二十" />
@@ -50,12 +51,11 @@
       <item value="掌上图书" />
       <item value="图书馆" />
       <item value="场馆" />
-      <item value="收藏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
