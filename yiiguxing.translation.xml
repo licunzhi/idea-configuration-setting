@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同期" />
+      <item value="差值" />
+      <item value="流动" />
+      <item value="省份" />
       <item value="心跳检测" />
       <item value="锚点" />
       <item value="stat Time" />
@@ -47,15 +51,11 @@
       <item value="BACKPACK" />
       <item value="定制" />
       <item value="x" />
-      <item value="故障" />
-      <item value="水波" />
-      <item value="立方体" />
-      <item value="掌上图书" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="194" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
