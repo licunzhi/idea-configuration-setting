@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="high Consume" />
+      <item value="max Consume" />
       <item value="同期" />
       <item value="差值" />
       <item value="流动" />
@@ -49,13 +51,11 @@
       <item value="on" />
       <item value="备份" />
       <item value="BACKPACK" />
-      <item value="定制" />
-      <item value="x" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
