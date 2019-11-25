@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分布" />
+      <item value="外来人口来源分布" />
       <item value="户籍分布" />
       <item value="户籍情况" />
       <item value="居住用户年龄分布" />
@@ -49,13 +51,11 @@
       <item value="大分类" />
       <item value="工作行业模糊分类" />
       <item value="性别比例" />
-      <item value="年龄分布" />
-      <item value="在线报包" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="207" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
