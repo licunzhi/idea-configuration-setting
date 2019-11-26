@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a" />
+      <item value="居住地分析" />
       <item value="区县" />
       <item value="流动人口变化" />
       <item value="地区性别分布" />
@@ -49,13 +51,11 @@
       <item value="通勤" />
       <item value="同区域通勤" />
       <item value="洞察通用数据" />
-      <item value="区域排行" />
-      <item value="* 查询" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
