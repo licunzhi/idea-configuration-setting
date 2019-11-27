@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
+      <item value="divide" />
       <item value="Bearer" />
       <item value="街道人口分布" />
       <item value="a" />
@@ -24,8 +26,6 @@
       <item value="居住用户年龄分布" />
       <item value="职住人口分析" />
       <item value="工作居住人口概述" />
-      <item value="subtract" />
-      <item value="divide" />
       <item value="divisor" />
       <item value="流动人口" />
       <item value="乡镇" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
