@@ -44,15 +44,15 @@
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql" dialect="MariaDB">
+    <driver id="mysql">
       <remarks>本地数据库</remarks>
-      <artifact name="MySQL Connector/J" rolling="false" version="5.1.46" />
+      <artifact name="MySQL Connector/J" version="5.1.47" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
       <library>
-        <url>file://E:/000-idea-work/普洱外来人口/yn_people_svc/lib/mysql-connector-java-5.1.39.jar</url>
+        <url>file://E:/001-maven-rep/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.jar</url>
       </library>
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
