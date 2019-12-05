@@ -12,6 +12,9 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="SplitHorizontally">
     <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
