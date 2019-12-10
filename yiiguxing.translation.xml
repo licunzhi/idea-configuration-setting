@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="无用的表格" />
       <item value="溢出" />
       <item value="梨形" />
       <item value="梨子" />
@@ -50,12 +51,11 @@
       <item value="省份" />
       <item value="心跳检测" />
       <item value="锚点" />
-      <item value="stat Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="230" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
