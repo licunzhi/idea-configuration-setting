@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Plugins expose the full potential of the webpack engine to third-party developers. Using staged build callbacks, developers can introduce their own behaviors into the webpack build process. Building plugins is a bit more advanced than building loaders, because you'll need to understand some of the webpack low-level internals to hook into them. Be prepared to read some source code!" />
+      <item value="function" />
       <item value="专题文件下载" />
       <item value="pixels" />
       <item value="carefully" />
@@ -49,13 +51,11 @@
       <item value="divisor" />
       <item value="流动人口" />
       <item value="乡镇" />
-      <item value="high Consume" />
-      <item value="max Consume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="234" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="BENGALI" value="1" />
