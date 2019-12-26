@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enhancements" />
+      <item value="JDK 9 includes installer enhancements for Microsoft Windows and macOS platforms." />
       <item value="区县" />
       <item value="指标" />
       <item value="Plugins expose the full potential of the webpack engine to third-party developers. Using staged build callbacks, developers can introduce their own behaviors into the webpack build process. Building plugins is a bit more advanced than building loaders, because you'll need to understand some of the webpack low-level internals to hook into them. Be prepared to read some source code!" />
@@ -49,13 +51,11 @@
       <item value="居住用户年龄分布" />
       <item value="职住人口分析" />
       <item value="工作居住人口概述" />
-      <item value="divisor" />
-      <item value="流动人口" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="BENGALI" value="1" />
