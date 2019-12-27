@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The following code shows examples using var:" />
+      <item value="Try-with-resources variable" />
+      <item value="Index variables declared in traditional for loops" />
+      <item value="Enhanced for-loop indexes" />
+      <item value="Local variable declarations with initializers" />
+      <item value="var can be used for the following types of variables:" />
+      <item value="var is a reserved type name, not a keyword, which means that existing code that uses var as a variable, method, or package name is not affected. However, code that uses var as a class or interface name is affected and the class or interface needs to be renamed." />
+      <item value="var is a reserved type name, not a keyword, which means that existing code that uses" />
+      <item value="Using this identifier, the type of the variable is inferred from the context. The code from the previous example can be rewritten as shown in the following example:" />
+      <item value="A new identifier named var is now available for local variables with non-null initializers." />
+      <item value="Code such as that shown in the following example seems redundant and makes the code harder to read." />
+      <item value="Local-Variable Type Inference" />
+      <item value="which makes code more readable and reduces the amount of required boilerplate code." />
+      <item value="Java SE 10 introduces support for inferring the type of local variables from the context,  &#10;which makes code more readable and reduces the amount of required boilerplate  &#10;code." />
+      <item value="Java Language Changes for Java SE 10" />
       <item value="enhancements" />
       <item value="JDK 9 includes installer enhancements for Microsoft Windows and macOS platforms." />
       <item value="区县" />
@@ -36,26 +51,11 @@
       <item value="流动人口变化" />
       <item value="地区性别分布" />
       <item value="工作用户分布" />
-      <item value="居住用户增减情况" />
-      <item value="居住用户分布" />
-      <item value="working Population Change" />
-      <item value="工作居住人口变化" />
-      <item value="commuting Distance Analysis" />
-      <item value="区域通勤分析" />
-      <item value="各区域通勤分析" />
-      <item value="居住用户话费分析" />
-      <item value="分布" />
-      <item value="外来人口来源分布" />
-      <item value="户籍分布" />
-      <item value="户籍情况" />
-      <item value="居住用户年龄分布" />
-      <item value="职住人口分析" />
-      <item value="工作居住人口概述" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="BENGALI" value="1" />
