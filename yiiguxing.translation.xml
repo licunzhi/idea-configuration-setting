@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="学级" />
+      <item value="学科" />
+      <item value="专业" />
       <item value="exclusive" />
       <item value="The following code shows examples using var:" />
       <item value="Try-with-resources variable" />
@@ -48,9 +51,6 @@
       <item value="Bearer" />
       <item value="街道人口分布" />
       <item value="a" />
-      <item value="居住地分析" />
-      <item value="流动人口变化" />
-      <item value="地区性别分布" />
     </histories>
     <option name="languageScores">
       <map>
