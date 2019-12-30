@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclusive" />
       <item value="The following code shows examples using var:" />
       <item value="Try-with-resources variable" />
       <item value="Index variables declared in traditional for loops" />
@@ -50,12 +51,11 @@
       <item value="居住地分析" />
       <item value="流动人口变化" />
       <item value="地区性别分布" />
-      <item value="工作用户分布" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="BENGALI" value="1" />
