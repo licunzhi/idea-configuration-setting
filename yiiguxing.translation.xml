@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="雪碧" />
       <item value="institute" />
       <item value="学院" />
       <item value="学系" />
@@ -50,12 +51,11 @@
       <item value="小球" />
       <item value="Plain" />
       <item value="subtract" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="256" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="BENGALI" value="1" />
