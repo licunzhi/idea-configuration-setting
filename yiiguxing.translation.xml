@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效时间" />
       <item value="短信" />
       <item value="Malus Spectabilis" />
       <item value="单元测试" />
@@ -50,12 +51,11 @@
       <item value="梨子" />
       <item value="球" />
       <item value="High level representation of a workbook.  This is the first object most users&#10; * will construct whether they are reading or writing a workbook.  It is also the&#10; * top level object for creating new sheets/etc." />
-      <item value="模板" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="262" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
