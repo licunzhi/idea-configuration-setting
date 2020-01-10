@@ -9,6 +9,7 @@
       <mapping pattern="介绍" type="PLAIN_TEXT" />
       <mapping pattern="notice" type="PLAIN_TEXT" />
       <mapping pattern="tcmpinfo" type="PLAIN_TEXT" />
+      <mapping pattern="nullmas" type="PLAIN_TEXT" />
       <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping pattern="TCP粘包.md" type="PLAIN_TEXT" />
       <mapping pattern="测试环境任务调试" type="PLAIN_TEXT" />
