@@ -13,7 +13,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <mouse-shortcut keystroke="control alt button1 doubleClick" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
