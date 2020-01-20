@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the maximum number of seconds that this executor is supposed to block on shutdown in order to wait for remaining tasks to complete their execution before the rest of the container continues to shut down. This is particularly useful if your remaining tasks are likely to need access to other resources that are also managed by the container. &lt;p&gt;By default, this executor won't wait for the termination of tasks at all. It will either shut down immediately, interrupting ongoing tasks and clearing the remaining task queue - or, if the {@link #setWaitForTasksToCompleteOnShutdown &quot;waitForTasksToCompleteOnShutdown&quot;} flag has been set to {@code true}, it will continue to fully execute all ongoing tasks as well as all remaining tasks in the queue, in parallel to the rest of the container shutting down. &lt;p&gt;In either case, if you specify an await-termination period using this property, this executor will wait for the given time (max) for the termination of tasks. As a rule of thumb, specify a significantly higher timeout here if you set &quot;waitForTasksToCompleteOnShutdown&quot; to {@code true} at the same time, since all remaining tasks in the queue will still get executed - in contrast to the default shutdown behavior where it's just about waiting for currently executing tasks that aren't reacting to thread interruption. @see java.util.concurrent.ExecutorService#shutdown() @see java.util.concurrent.ExecutorService#awaitTermination " />
+      <item value="shutdown" />
+      <item value="/**&#10;&#9; * Set the maximum number of seconds that this executor is supposed to block&#10;&#9; * on shutdown in order to wait for remaining tasks to complete their execution&#10;&#9; * before the rest of the container continues to shut down. This is particularly&#10;&#9; * useful if your remaining tasks are likely to need access to other resources&#10;&#9; * that are also managed by the container.&#10;&#9; * &lt;p&gt;By default, this executor won't wait for the termination of tasks at all.&#10;&#9; * It will either shut down immediately, interrupting ongoing tasks and clearing&#10;&#9; * the remaining task queue - or, if the&#10;&#9; * {@link #setWaitForTasksToCompleteOnShutdown &quot;waitForTasksToCompleteOnShutdown&quot;}&#10;&#9; * flag has been set to {@code true}, it will continue to fully execute all&#10;&#9; * ongoing tasks as well as all remaining tasks in the queue, in parallel to&#10;&#9; * the rest of the container shutting down.&#10;&#9; * &lt;p&gt;In either case, if you specify an await-termination period using this property,&#10;&#9; * this executor will wait for the given time (max) for the termination of tasks.&#10;&#9; * As a rule of thumb, specify a significantly higher timeout here if you set&#10;&#9; * &quot;waitForTasksToCompleteOnShutdown&quot; to {@code true} at the same time,&#10;&#9; * since all remaining tasks in the queue will still get executed - in contrast&#10;&#9; * to the default shutdown behavior where it's just about waiting for currently&#10;&#9; * executing tasks that aren't reacting to thread interruption.&#10;&#9; * @see java.util.concurrent.ExecutorService#shutdown()&#10;&#9; * @see java.util.concurrent.ExecutorService#awaitTermination&#10;&#9; */" />
+      <item value="Set the ScheduledExecutorService's pool size." />
       <item value="市内" />
       <item value="点击反馈" />
       <item value="有效时间" />
@@ -47,15 +51,11 @@
       <item value="merge" />
       <item value="star merge push" />
       <item value="关键流程" />
-      <item value="无用的表格" />
-      <item value="溢出" />
-      <item value="梨形" />
-      <item value="梨子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="266" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
