@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="足迹反馈" />
       <item value="精准" />
       <item value="Set the maximum number of seconds that this executor is supposed to block on shutdown in order to wait for remaining tasks to complete their execution before the rest of the container continues to shut down. This is particularly useful if your remaining tasks are likely to need access to other resources that are also managed by the container. &lt;p&gt;By default, this executor won't wait for the termination of tasks at all. It will either shut down immediately, interrupting ongoing tasks and clearing the remaining task queue - or, if the {@link #setWaitForTasksToCompleteOnShutdown &quot;waitForTasksToCompleteOnShutdown&quot;} flag has been set to {@code true}, it will continue to fully execute all ongoing tasks as well as all remaining tasks in the queue, in parallel to the rest of the container shutting down. &lt;p&gt;In either case, if you specify an await-termination period using this property, this executor will wait for the given time (max) for the termination of tasks. As a rule of thumb, specify a significantly higher timeout here if you set &quot;waitForTasksToCompleteOnShutdown&quot; to {@code true} at the same time, since all remaining tasks in the queue will still get executed - in contrast to the default shutdown behavior where it's just about waiting for currently executing tasks that aren't reacting to thread interruption. @see java.util.concurrent.ExecutorService#shutdown() @see java.util.concurrent.ExecutorService#awaitTermination " />
       <item value="shutdown" />
@@ -50,12 +51,11 @@
       <item value="pixels" />
       <item value="carefully" />
       <item value="merge" />
-      <item value="star merge push" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="ENGLISH" value="268" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
