@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lettuce" />
       <item value="msisdn" />
       <item value="足迹反馈" />
       <item value="精准" />
@@ -50,12 +51,11 @@
       <item value="function" />
       <item value="专题文件下载" />
       <item value="pixels" />
-      <item value="carefully" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
