@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="外出周期分布" />
       <item value="migrant" />
       <item value="外来人口" />
       <item value="Lettuce" />
@@ -50,11 +51,10 @@
       <item value="区县" />
       <item value="指标" />
       <item value="Plugins expose the full potential of the webpack engine to third-party developers. Using staged build callbacks, developers can introduce their own behaviors into the webpack build process. Building plugins is a bit more advanced than building loaders, because you'll need to understand some of the webpack low-level internals to hook into them. Be prepared to read some source code!" />
-      <item value="function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
+        <entry key="CHINESE" value="270" />
         <entry key="ENGLISH" value="270" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
