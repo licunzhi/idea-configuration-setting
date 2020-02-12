@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人口来源" />
+      <item value="流动趋势" />
+      <item value="流出人口" />
+      <item value="疆外去向" />
+      <item value="外省来源" />
+      <item value="人口去向" />
+      <item value="迁徙省份" />
+      <item value="地市选项" />
       <item value="外出周期分布" />
       <item value="migrant" />
       <item value="外来人口" />
@@ -43,19 +51,11 @@
       <item value="A new identifier named var is now available for local variables with non-null initializers." />
       <item value="Code such as that shown in the following example seems redundant and makes the code harder to read." />
       <item value="Local-Variable Type Inference" />
-      <item value="which makes code more readable and reduces the amount of required boilerplate code." />
-      <item value="Java SE 10 introduces support for inferring the type of local variables from the context,  &#10;which makes code more readable and reduces the amount of required boilerplate  &#10;code." />
-      <item value="Java Language Changes for Java SE 10" />
-      <item value="enhancements" />
-      <item value="JDK 9 includes installer enhancements for Microsoft Windows and macOS platforms." />
-      <item value="区县" />
-      <item value="指标" />
-      <item value="Plugins expose the full potential of the webpack engine to third-party developers. Using staged build callbacks, developers can introduce their own behaviors into the webpack build process. Building plugins is a bit more advanced than building loaders, because you'll need to understand some of the webpack low-level internals to hook into them. Be prepared to read some source code!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="277" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
