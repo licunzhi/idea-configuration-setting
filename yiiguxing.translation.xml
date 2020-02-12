@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="来源数量" />
       <item value="人口来源" />
       <item value="流动趋势" />
       <item value="流出人口" />
@@ -50,12 +51,11 @@
       <item value="Using this identifier, the type of the variable is inferred from the context. The code from the previous example can be rewritten as shown in the following example:" />
       <item value="A new identifier named var is now available for local variables with non-null initializers." />
       <item value="Code such as that shown in the following example seems redundant and makes the code harder to read." />
-      <item value="Local-Variable Type Inference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="278" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
