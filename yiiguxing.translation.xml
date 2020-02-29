@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入网" />
       <item value="物流" />
       <item value="相册升级版本" />
       <item value="时间控件" />
@@ -50,12 +51,11 @@
       <item value="Enhanced for-loop indexes" />
       <item value="Local variable declarations with initializers" />
       <item value="var can be used for the following types of variables:" />
-      <item value="var is a reserved type name, not a keyword, which means that existing code that uses var as a variable, method, or package name is not affected. However, code that uses var as a class or interface name is affected and the class or interface needs to be renamed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="284" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
