@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="外来人口" />
       <item value="配置" />
       <item value="入网" />
       <item value="物流" />
@@ -18,7 +19,6 @@
       <item value="地市选项" />
       <item value="外出周期分布" />
       <item value="migrant" />
-      <item value="外来人口" />
       <item value="Lettuce" />
       <item value="msisdn" />
       <item value="足迹反馈" />
