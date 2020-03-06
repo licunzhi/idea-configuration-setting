@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="周期" />
       <item value="重点区域" />
       <item value="疫情客群" />
       <item value="地市" />
@@ -50,12 +51,11 @@
       <item value="专业" />
       <item value="exclusive" />
       <item value="The following code shows examples using var:" />
-      <item value="Try-with-resources variable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="287" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
