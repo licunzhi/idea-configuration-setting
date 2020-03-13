@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subscribe" />
+      <item value="订阅" />
       <item value="分类" />
       <item value="vertices" />
       <item value="同步" />
@@ -49,13 +51,11 @@
       <item value="雪碧" />
       <item value="institute" />
       <item value="学院" />
-      <item value="学系" />
-      <item value="学级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="290" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
