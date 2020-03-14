@@ -2,6 +2,10 @@
   <template name="c" value="&lt;!-- $END$ --&gt;" description="&lt;!-- --&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="a" value="&lt;a href=&quot;$VAR0$&quot;&gt;$END$&lt;/a&gt;" description="&lt;a href=&quot;...&quot;&gt;...&lt;/a&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="param" value="&lt;param name=&quot;$VAR0$&quot; value=&quot;$VAR1$&quot;&gt;" description="&lt;param name=&quot;...&quot; value=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
