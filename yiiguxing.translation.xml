@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="注册" />
       <item value="毛玻璃" />
       <item value="融合" />
       <item value="过期" />
@@ -50,11 +51,10 @@
       <item value="harmcrest" />
       <item value="terminology" />
       <item value="Executes the given action object within a connection that can be exposed or not. Additionally, the connection can&#10;&#9; * be pipelined. Note the results of the pipeline are discarded (making it suitable for write-only scenarios)." />
-      <item value="xecutes the given action object within a connection, which can be exposed or not." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
+        <entry key="CHINESE" value="291" />
         <entry key="ENGLISH" value="291" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="2" />
