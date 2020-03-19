@@ -17,9 +17,9 @@
       <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping pattern="DATADIFF" type="PLAIN_TEXT" />
       <mapping pattern="nginx配置" type="PLAIN_TEXT" />
+      <mapping pattern="资源下载页面" type="PLAIN_TEXT" />
       <mapping pattern="一个呆萌引发的思考（三）" type="PLAIN_TEXT" />
       <mapping pattern="url_info" type="PLAIN_TEXT" />
-      <mapping pattern="资源下载页面" type="PLAIN_TEXT" />
       <mapping pattern="DATADIFFONE" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="WAVE.MD" type="PLAIN_TEXT" />
@@ -27,12 +27,12 @@
       <mapping pattern="data_template" type="PLAIN_TEXT" />
       <mapping pattern="临时文件" type="PLAIN_TEXT" />
       <mapping pattern="lcz" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
