@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="Springboot依赖排除打包" type="PLAIN_TEXT" />
+      <mapping pattern="主从同步" type="PLAIN_TEXT" />
+      <mapping pattern="dataFlushSql" type="PLAIN_TEXT" />
+      <mapping pattern="LRU-最近最少使用算法" type="PLAIN_TEXT" />
+      <mapping pattern="问题工具-jvsualvm" type="PLAIN_TEXT" />
+      <mapping pattern="说明" type="PLAIN_TEXT" />
+      <mapping pattern="javaFile" type="PLAIN_TEXT" />
+      <mapping pattern="info" type="PLAIN_TEXT" />
+      <mapping pattern="loginInfo" type="PLAIN_TEXT" />
+      <mapping pattern="同步正确使用.md" type="PLAIN_TEXT" />
+      <mapping pattern="sql备份" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

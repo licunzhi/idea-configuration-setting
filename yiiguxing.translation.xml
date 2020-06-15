@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="classify" />
+      <item value="as" />
+      <item value="reg id" />
+      <item value="七樱" />
+      <item value="lettuce" />
+      <item value="EUREKA 02" />
+      <item value="EUREKA 03" />
+      <item value="preservation" />
+      <item value="识别" />
+      <item value="综合定位" />
+      <item value="radix" />
+      <item value="a f_reg custsrc day h" />
+      <item value="security area info" />
+      <item value="人脸识别" />
+      <item value="Grid Bag Layout" />
+      <item value="尺寸" />
+      <item value="sakura" />
+      <item value="Parallel Scavenge" />
+      <item value="msidsn" />
+      <item value="balance" />
+      <item value="rotate Right" />
+      <item value="balance Insertion" />
+      <item value="Delegated" />
+      <item value="Creates a thread pool that maintains enough threads to support * the given parallelism level, and may use multiple queues to * reduce contention. The parallelism level corresponds to the * maximum number of threads actively engaged in, or available to * engage in, task processing. The actual number of threads may * grow and shrink dynamically. A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed." />
+      <item value="new Work Stealing Pool" />
+      <item value="treeify" />
+      <item value="replacement Tree Node" />
+      <item value="possibly remove eldest" />
+      <item value="creation mode." />
+      <item value="creation" />
+      <item value="* Provides a framework for implementing blocking locks and related * synchronizers (semaphores, events, etc) that rely on * first-in-first-out (FIFO) wait queues. This class is designed to * be a useful basis for most kinds of synchronizers that rely on a * single atomic {@code int} value to represent state. Subclasses * must define the protected methods that change this state, and which * define what that state means in terms of this object being acquired * or released. Given these, the other methods in this class carry * out all queuing and blocking mechanics. Subclasses can maintain * other state fields, but only the atomically updated {@code int} * value manipulated using methods {@link #getState}, {@link * #setState} and {@link #compareAndSetState} is tracked with respect * to synchronization." />
+      <item value="Java VisualVM enables you to take snapshots that capture application data at the time the snapshot is taken. You can save snapshots to your local system and then examine them later or send them to others.  Java VisualVM enables you to take the following types of snapshots:  Profiler snapshots. A profiler snapshot captures the profiling data at the moment the snapshot is takes. The snapshot is either a memory snapshot or a CPU snapshot. You can take a profiler snapshot only when you are profiling an application. Application snapshots. An application snapshot is an archive that contains all the heap dumps, thread dumps and snapshots that are listed below the application node." />
+      <item value="formula" />
+      <item value="FORMULA" />
+      <item value="CELL TYPE FORMULA" />
+      <item value="XSSF Rich Text String" />
+      <item value="人口来源" />
+      <item value="流动人口" />
+      <item value="返乡人口" />
+      <item value="外来人口" />
+      <item value="请校验参数格式的正确性" />
+      <item value="I" />
+      <item value="get North East Point" />
+      <item value="get South West Point" />
+      <item value="不符合规范的数据处理" />
+      <item value="permanent Residents Config" />
+      <item value="常住人口" />
+      <item value="deduce Main Application Class" />
+      <item value="is Point In Rectangle" />
+      <item value="flip" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

@@ -1,0 +1,66 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="E:/develop/node/node.exe">
+      <version-cache version="10.15.3" last-modified="1551771658000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/02辽宁项目/辽宁高速项目/01java" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/02辽宁项目/辽宁高速项目/01java/services-freeway-ln-mas" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/01江苏项目/业务中台管理系统" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/09陕西项目/01智传单/01javasource" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/01江苏项目/业务中台" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/00内部项目/12云准信/04_Java代码/services-newland-cloudMessage" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/02辽宁项目/辽宁高速项目/01java/services-freeway-ln-operate" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/03北京项目/北京政府人口统计平台" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/07新疆项目/新疆文旅云/微信h5" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/00内部研发/NL_JAVA框架" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/02云南项目/普洱外来人口" />
+        <option value="http://223.68.143.71:8081/svn/JSEDC/trunk/智慧洞察平台/06福建项目/福建选址项目/01java" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/02辽宁项目/辽宁高速项目/01java" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/02辽宁项目/辽宁高速项目/01java/services-freeway-ln-mas" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/01江苏项目/业务中台管理系统" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/09陕西项目/01智传单/01javasource" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/01江苏项目/业务中台" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/00内部项目/12云准信/04_Java代码/services-newland-cloudMessage" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/02辽宁项目/辽宁高速项目/01java/services-freeway-ln-operate" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/03北京项目/北京政府人口统计平台" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/07新疆项目/新疆文旅云/微信h5" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/00内部研发/NL_JAVA框架" />
+        <option value="http://172.32.147.193:8081/svn/JSEDC/trunk/智慧洞察平台/02云南项目/普洱外来人口" />
+        <option value="http://223.68.143.71:8081/svn/JSEDC/trunk/智慧洞察平台/06福建项目/福建选址项目/01java" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="E:\develop\svn\bin\svn.exe" />
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" SelectedBinding="ADB">
+    <StubPackage>com.al.dnsinterface.webservice</StubPackage>
+    <StubPackage>services</StubPackage>
+    <StubPackage>com</StubPackage>
+    <StubPackage>com.webservice.demo</StubPackage>
+    <StubPackage>example</StubPackage>
+    <StubPackage>com.webservice.demo</StubPackage>
+    <StubUrl>file:/E:/000-idea-work/anti/CheatUrl.wsdl</StubUrl>
+    <StubUrl>file:/E:/files_information/反欺诈/CheatUrl.wsdl</StubUrl>
+    <StubUrl>file:/E:/004-idea-study/dream_on_sakura_rain/webservice-demo/src/com/webservice/demo/CheatUrl.wsdl</StubUrl>
+  </component>
+</application>
