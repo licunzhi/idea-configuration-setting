@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutable Property Sources" />
+      <item value="Assuming" />
+      <item value="Note that certain shell environments such as Bash disallow the use of the period" />
+      <item value="delimited" />
+      <item value="comma" />
+      <item value="System property that instructs Spring to ignore system environment variables, i.e. to never attempt to retrieve such a variable via System.getenv(). The default is &quot;false&quot;, falling back to system environment variable checks if a Spring environment property (e.g. a placeholder in a configuration String) isn't resolvable otherwise. Consider switching this flag to &quot;true&quot; if you experience log warnings from getenv calls coming from Spring, e.g. on WebSphere with strict SecurityManager settings and AccessControlExceptions warnings." />
+      <item value="underlying source." />
+      <item value="underlying" />
+      <item value="against" />
+      <item value="resolving" />
+      <item value="Interface for resolving properties against any underlying source." />
       <item value="Alternatively, call refresh manually after further configuring the context." />
       <item value="loading the definitions from the given XML files." />
       <item value="definitions" />
@@ -40,23 +51,13 @@
       <item value="FORMULA" />
       <item value="CELL TYPE FORMULA" />
       <item value="XSSF Rich Text String" />
-      <item value="人口来源" />
-      <item value="流动人口" />
-      <item value="返乡人口" />
-      <item value="外来人口" />
-      <item value="请校验参数格式的正确性" />
-      <item value="I" />
-      <item value="get North East Point" />
-      <item value="get South West Point" />
-      <item value="不符合规范的数据处理" />
-      <item value="permanent Residents Config" />
-      <item value="常住人口" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
