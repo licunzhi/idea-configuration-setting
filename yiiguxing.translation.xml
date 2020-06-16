@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alternatively, call refresh manually after further configuring the context." />
+      <item value="loading the definitions from the given XML files." />
+      <item value="definitions" />
       <item value="classify" />
       <item value="as" />
       <item value="reg id" />
@@ -48,14 +51,11 @@
       <item value="不符合规范的数据处理" />
       <item value="permanent Residents Config" />
       <item value="常住人口" />
-      <item value="deduce Main Application Class" />
-      <item value="is Point In Rectangle" />
-      <item value="flip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
