@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We don't use a fast path as with get()" />
       <item value="Executes task r in the caller's thread, unless the executor * has been shut down, in which case the task is discarded." />
       <item value="Caller Runs Policy" />
       <item value="deprecate" />
@@ -50,12 +51,11 @@
       <item value="creation" />
       <item value="* Provides a framework for implementing blocking locks and related * synchronizers (semaphores, events, etc) that rely on * first-in-first-out (FIFO) wait queues. This class is designed to * be a useful basis for most kinds of synchronizers that rely on a * single atomic {@code int} value to represent state. Subclasses * must define the protected methods that change this state, and which * define what that state means in terms of this object being acquired * or released. Given these, the other methods in this class carry * out all queuing and blocking mechanics. Subclasses can maintain * other state fields, but only the atomically updated {@code int} * value manipulated using methods {@link #getState}, {@link * #setState} and {@link #compareAndSetState} is tracked with respect * to synchronization." />
       <item value="Java VisualVM enables you to take snapshots that capture application data at the time the snapshot is taken. You can save snapshots to your local system and then examine them later or send them to others.  Java VisualVM enables you to take the following types of snapshots:  Profiler snapshots. A profiler snapshot captures the profiling data at the moment the snapshot is takes. The snapshot is either a memory snapshot or a CPU snapshot. You can take a profiler snapshot only when you are profiling an application. Application snapshots. An application snapshot is an archive that contains all the heap dumps, thread dumps and snapshots that are listed below the application node." />
-      <item value="formula" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
