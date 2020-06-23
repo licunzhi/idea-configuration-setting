@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TERMINATED" />
+      <item value="TIMED WAITING" />
+      <item value="BLOCKED" />
+      <item value="yet" />
       <item value="Synchronous Queue" />
       <item value="We don't use a fast path as with get()" />
       <item value="Executes task r in the caller's thread, unless the executor * has been shut down, in which case the task is discarded." />
@@ -47,15 +51,11 @@
       <item value="new Work Stealing Pool" />
       <item value="treeify" />
       <item value="replacement Tree Node" />
-      <item value="possibly remove eldest" />
-      <item value="creation mode." />
-      <item value="creation" />
-      <item value="* Provides a framework for implementing blocking locks and related * synchronizers (semaphores, events, etc) that rely on * first-in-first-out (FIFO) wait queues. This class is designed to * be a useful basis for most kinds of synchronizers that rely on a * single atomic {@code int} value to represent state. Subclasses * must define the protected methods that change this state, and which * define what that state means in terms of this object being acquired * or released. Given these, the other methods in this class carry * out all queuing and blocking mechanics. Subclasses can maintain * other state fields, but only the atomically updated {@code int} * value manipulated using methods {@link #getState}, {@link * #setState} and {@link #compareAndSetState} is tracked with respect * to synchronization." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
