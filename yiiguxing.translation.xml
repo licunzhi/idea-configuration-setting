@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="huge Capacity" />
+      <item value="ensure Explicit Capacity" />
+      <item value="ensure Capacity Internal" />
       <item value="A thread that is waiting indefinitely for another thread to * perform a particular action is in this state." />
       <item value="TERMINATED" />
       <item value="TIMED WAITING" />
@@ -48,14 +51,11 @@
       <item value="rotate Right" />
       <item value="balance Insertion" />
       <item value="Delegated" />
-      <item value="Creates a thread pool that maintains enough threads to support * the given parallelism level, and may use multiple queues to * reduce contention. The parallelism level corresponds to the * maximum number of threads actively engaged in, or available to * engage in, task processing. The actual number of threads may * grow and shrink dynamically. A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed." />
-      <item value="new Work Stealing Pool" />
-      <item value="treeify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
