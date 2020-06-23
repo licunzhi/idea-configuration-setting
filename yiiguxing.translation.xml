@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * The array buffer into which the elements of the ArrayList are stored. * The capacity of the ArrayList is the length of this array buffer. Any * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA * will be expanded to DEFAULT_CAPACITY when the first element is added. */" />
       <item value="huge Capacity" />
       <item value="ensure Explicit Capacity" />
       <item value="ensure Capacity Internal" />
@@ -50,12 +51,11 @@
       <item value="balance" />
       <item value="rotate Right" />
       <item value="balance Insertion" />
-      <item value="Delegated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
